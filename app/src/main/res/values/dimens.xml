@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSize">12sp</dimen>
+    <dimen name="general">180dp</dimen>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="categoryTextSize">20sp</dimen>
+</resources>
